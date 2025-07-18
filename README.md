@@ -10,7 +10,12 @@ Solution for the Geektastic Word Reveal code challenge.
 
 ## Run Tests
 
-\`\`\`bash
+```bash
 composer install
 ./vendor/bin/phpunit
-\`\`\`
+```
+
+## License
+
+This project is licensed under the MIT License.  
+See the [`LICENSE`](./LICENSE) file for full details.
